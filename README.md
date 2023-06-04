@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kevin ✌️
 
-![Kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinSennaa&show_icons=true&theme=dark)
+![Kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinSennaa&show_icons=true&theme=dracula)
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-ferreira-undefined-5276b9272/)
